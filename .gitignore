@@ -1,2 +1,12 @@
 *venv*
 *pytest*
+venv/
+.venv/
+Pipfile
+.cache/
+.mypy_cache/
+.coverage
+/htmlcov/
+/site/
+.pytest_cache/
+.vscode/
